@@ -1,0 +1,9 @@
+make gera o executável banker.
+
+O customer.txt e o commands.txt ficam na mesma pasta.
+
+./banker 10 5 7
+
+O resultado vai para o result.txt.
+
+make clean apaga o executável.
